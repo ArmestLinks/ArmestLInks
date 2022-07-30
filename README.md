@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 My name is Juan, i'm from Argentina and I'm a Junior and eager to learn Sysadmin. ⚡
 
