@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Juan, i'm from Argentina and I'm a Junior and eager to learn Sysadmin. ⚡
+
+## Skills
+- Studying new technologies 24/7.
+- Learning and using Linux (Ubuntu) day-by-day.
+- Managing Windows at home and work.
+- Hunger for knowledge.
+
+## Contact 
+Find my resume in:   www.linkedin.com/in/ArmestLinks 📫
 <!--
 **ArmestLinks/ArmestLInks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
