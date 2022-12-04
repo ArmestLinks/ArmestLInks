@@ -1,15 +1,17 @@
-### Hello 👋
+### Hello World 👋
 
-My name is Juan, i'm from Argentina and I'm a Junior and eager to learn Cloud Engineer. ⚡
+My name is Juan, i'm from Argentina. I'm a Cloud Engineer working with GCP, offering IT Services and IT Consulting. ⚡
 
 ## Skills
 - Studying new technologies 24/7.
 - Learning and using Linux day-by-day.
 - Managing Windows at home and work.
-- Hunger for knowledge.
+- Knowledge in containerization and orchestration tools (Docker, Kubernetes)
+- Experience in Cloud Computing.
 
 ## Contact 
-Find my resume at:   www.linkedin.com/in/ArmestLinks 📫
+Find my resume at: www.linkedin.com/in/ArmestLinks 📫
+
 <!--
 **ArmestLinks/ArmestLInks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
