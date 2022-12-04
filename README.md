@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 My name is Juan, i'm from Argentina. I'm a Cloud Engineer working with GCP, offering IT Services and IT Consulting. ⚡
 
@@ -6,7 +6,7 @@ My name is Juan, i'm from Argentina. I'm a Cloud Engineer working with GCP, offe
 - Studying new technologies 24/7.
 - Learning and using Linux day-by-day.
 - Managing Windows at home and work.
-- Knowledge in containerization and orchestration tools (Docker, Kubernetes)
+- Knowledge in containerization and orchestration tools.
 - Experience in Cloud Computing.
 
 ## Contact 
