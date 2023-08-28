@@ -10,10 +10,10 @@ My name is Juan and I'm from Argentina. I'm a Cloud Engineer working with GCP, o
 - Experience in Cloud Computing.
 
 ## Contact 
-Find my resume at: www.linkedin.com/in/ArmestLinks 📫
+Find my contact information at: https://armestlinks.com.ar 📫
 
 <!--
-**ArmestLinks/ArmestLInks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ArmestLinks/ArmestLinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
