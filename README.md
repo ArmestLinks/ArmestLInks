@@ -1,6 +1,7 @@
 ## Hello World 👋
 
-My name is Juan and I'm from Argentina. I'm a Cloud Engineer working with GCP, offering IT Services and IT Consulting. ☁️
+My name is Juan and I'm from Argentina. I specialize in cloud infrastructure with a focus on Google Cloud Platform (GCP). 
+With hands-on experience deploying scalable, innovative solutions, I drive digital transformation for clients. ☁️
 
 ## Skills
 - Studying new technologies 24/7.
