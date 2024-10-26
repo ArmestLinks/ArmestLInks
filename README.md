@@ -7,7 +7,7 @@ My name is Juan and I'm from Argentina. I specialize in cloud infrastructure wit
 - Practitioner of DevOps philosophies.
 - Managing Windows & Linux at home and work.
 - Knowledge in containerization and orchestration tools.
-- Experience in Cloud Computing.
+- Experience in GCP, AWS & Azure  and most of its services.
 
 ## Contact 
 Find my contact information at: https://armestlinks.com.ar 📫
