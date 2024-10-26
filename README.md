@@ -5,8 +5,8 @@ With hands-on experience deploying scalable, innovative solutions, I drive digit
 
 ## Skills
 - Studying new technologies 24/7.
-- Learning and using Linux day-by-day.
-- Managing Windows at home and work.
+- Practitioner of DevOps philosophies.
+- Managing Windows & Linux at home and work.
 - Knowledge in containerization and orchestration tools.
 - Experience in Cloud Computing.
 
