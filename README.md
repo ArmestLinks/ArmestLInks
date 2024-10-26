@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-My name is Juan and I'm from Argentina. I specialize in cloud infrastructure with a focus on Google Cloud Platform (GCP). ☁️
+My name is Juan and I'm from Argentina. I specialize in cloud infrastructure with a focus on Google Cloud Platform (GCP) ☁️
 
 ## Skills
 - Studying new technologies 24/7.
